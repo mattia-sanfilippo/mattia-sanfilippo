@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mattia-sanfilippo/mattia-sanfilippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 23 and I love my job: programming! 👨‍💻
 
-Here are some ideas to get you started:
+I have several years of experience in the **Web** and **Mobile** Development field, both **frontend** and **backend** using a secure, state-of-the-art technology stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I always try do my best in all the projects I participate and lot of **teamwork**. 
+I am determined to improve day by day in my job, which is also my main hobby, by **constantly learning** more and more about development methods and new libraries and technologies that I can use in the projects I'm involved.
+
+I have a great spirit of initiative and I always try to take care of the product I work for as much as possible to **make the users** - always in the first place - **happy**.
+
+#### Programming languages I'm working with 🖥️
+- JavaScript
+- TypeScript
+- Python
+- Java
+- Swift
+- C++
