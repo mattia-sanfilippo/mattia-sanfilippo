@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 23 and I love my job: programming! 👨‍💻
+I'm 24 and I love my job: programming! 👨‍💻
 
 I have several years of experience in the **Web** and **Mobile** Development field, both **frontend** and **backend** using a secure, state-of-the-art technology stack.
 
@@ -12,7 +12,6 @@ I have a great spirit of initiative and I always try to take care of the product
 #### Programming languages I'm working with 🖥️
 - JavaScript
 - TypeScript
-- Python
 - Java
 - Swift
 - C++
