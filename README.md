@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 24 and I love my job: programming! 👨‍💻
+I'm 26 and I love my job: programming! 👨‍💻
 
 I have several years of experience in the **Web** and **Mobile** Development field, both **frontend** and **backend** using a secure, state-of-the-art technology stack.
 
